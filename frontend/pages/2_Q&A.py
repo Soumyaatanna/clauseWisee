@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 import time
-
 BACKEND_URL = "http://127.0.0.1:8000"
 
 st.set_page_config(page_title="Document Q&A", page_icon="❓", layout="wide")

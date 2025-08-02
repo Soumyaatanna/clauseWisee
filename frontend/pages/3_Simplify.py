@@ -1,6 +1,8 @@
 import streamlit as st
 import requests
 import json
+import os
+BACKEND_URL = os.environ.get("BACKEND_URL")
 
 st.set_page_config(
     page_title="clauseWise - Clause Simplification",
