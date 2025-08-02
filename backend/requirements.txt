@@ -1,0 +1,12 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-dotenv
+sentence-transformers
+transformers
+torch
+accelerate
+pdfplumber
+python-docx
+pinecone
+
