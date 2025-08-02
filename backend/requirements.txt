@@ -9,5 +9,5 @@ accelerate
 pdfplumber
 python-docx
 pinecone
-
+gradio
 python-multipart
